@@ -1,18 +1,14 @@
 {% extends "conteneur.html" %}
 
 {% block titre %}
-    {%if lieu %}| Lieu : {{lieu.place_nom}} {% endif %}
+    {%if video %}| Vidéo : {{video.chanteur}} : {{video.chanson}} {% endif %}
 {% endblock %}
 
 {% block corps %}
-    {% if lieu %}
-        <h1>{{lieu.place_nom}}</h1>
-        <dl>
-            <dt>Longitude</dt><dd>{{lieu.place_longitude}}</dd>
-            <dt>Latitude</dt><dd>{{lieu.place_latitude}}</dd>
-            <dt>Description</dt><dd>{{lieu.place_description}}</dd>
-            <dt>Type</dt><dd>{{lieu.place_type}}</dd>
-        </dl>
+    {% if video %}
+        <h1>{{video.chanteur}} : {{video.chanson}}</h1>
+    <iframe width='100%' height='100%' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='{{video.url}}' allow ='fullscreen,autoplay'></iframe>
+
     {% else %}
         <p>La base de données est en cours de constitution</p>
     {% endif %}
