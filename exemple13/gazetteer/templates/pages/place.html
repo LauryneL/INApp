@@ -6,12 +6,66 @@
 
 {% block corps %}
     {% if video %}
-<h1></h1>
-<h1>{{video.chanteur}}, <i>{{video.chanson}}</i></h1>
-    <iframe width='100%' height='100%' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='{{video.url}}' allow ='fullscreen,autoplay'></iframe>
-
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h1> {{video.chanteur}}, <i>{{video.chanson}}</i></h1>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-5">
+            <iframe width="450px" height='300px' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='{{video.url}}' allow ='fullscreen,autoplay'></iframe>
+        </div>
+        <div class="col-7">
+            Informations générales :
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-secondary">Interprète(s) : {{video.chanteur}}</li>
+                <li class="list-group-item list-group-item-secondary">Titre : <i>{{video.chanson}}</i></li>
+                <li class="list-group-item list-group-item-secondary">Année : 19XX</li>
+                <li class="list-group-item list-group-item-secondary">Description : Null</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <hr>
+            <h2>Informations sur l'archive :</h2>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-secondary">Emission : Null</li>
+                <li class="list-group-item list-group-item-secondary">Chaîne : Null</i></li>
+                <li class="list-group-item list-group-item-secondary">Date de diffusion : Null</li>
+                <li class="list-group-item list-group-item-secondary">Identifiant INA : Null</li>
+                <li class="list-group-item list-group-item-secondary"><a href="https://www.ina.fr/video/">Voir sur ina.fr</a> </li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            &nbsp;
+            <hr>
+            <h2>Information sur l'artiste :</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-5">
+            <img src="https://image-api.nrj.fr/http/media.nostalgie.fr/436x327/france-gall-jpg_17060.jpg?referer=Nostalgie&w=390&h=293"/>
+        </div>
+        <div class="col-7">
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-secondary">Nom : Null</li>
+                <li class="list-group-item list-group-item-secondary">Date : Null</i></li>
+                <li class="list-group-item list-group-item-secondary">Identifiant BnF : Null</li>
+                <li class="list-group-item list-group-item-secondary">Identifiant Wikidata : Null</li>
+                <li class="list-group-item list-group-item-secondary"><a href="https://www.ina.fr/video/">Voir sur ina.fr</a> </li>
+            </ul>
+        </div>
+    </div>
+</div>
     {% else %}
-        <p>La base de données est en cours de constitution</p>
+        <p>ERROR 404 : Impossible de trouver la page demandée</p>
+
+
     {% endif %}
     <p><a href="{{url_for('accueil')}}">Retour à l'accueil</a></p>
 {% endblock %}
