@@ -1,13 +1,17 @@
 {% extends "conteneur.html" %}
 {% block corps %}
-<h1>Bienvenue !</h1>
+<h1></h1>
+<h1 style="color:#505050;"><i>Bienvenue sur l'INApp !</i></h1>
+<p style="color:#3f3f3f;"><b><font size="+2">Cette application vous est proposée par des étudiantes afin de visionner les vidéos mises à disposition par l'INA. En plus des vidéos, vous
+    trouverez des informations à propos...</font></b></p>
     {% if videos %}
-    <p>Il y a {{videos|length}} vidéos disponibles :</p>
-        <ul>
+<p>Le catalogue compte {{videos|length}} vidéos :</p>
+        <div class="list-group">
             {% for video in videos %}
-                <li><a href="{{url_for('player', id=video.id)}}">{{video.chanson}}</a></li>
+            <a href="{{url_for('player', id=video.id)}}" class="list-group-item list-group-item-action list-group-item-secondary"><i class="fas fa-video"></i>	&nbsp;{{video.chanteur}}, <i>{{video.chanson}}</i></a>
+            <!--<li class="list-group-item list-group-item-secondary"><a href=" style="color:#1c659e;"></i></a></li>-->
             {% endfor %}
-        </ul>
+        </div>
     {% else %}
         <p>La base de données est en cours de constitution</p>
     {% endif %}

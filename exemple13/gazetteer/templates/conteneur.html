@@ -2,18 +2,19 @@
 <html lang="fr">
     <head>
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
         <title>INApp {%block titre %}{%endblock%}</title>
         {% include "partials/css.html" %}
         {% include "partials/metadata.html" %}
     </head>
-    <body>
+    <body style="background-color:#dddddd;">
 
 
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-between">
-        <a class="navbar-brand" href="{{ url_for('accueil') }}">INApp</a>
+      <nav class="navbar navbar-expand-md navbar-dark bg-info justify-content-between">
+        <a class="navbar-brand" href="{{ url_for('accueil') }}"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_INA.svg" width="50px" height="50px"/> <i>INApp</i></a>
         <form class="form-inline" action="{{url_for("recherche")}}" method="GET">
-          <input class="form-control" name="keyword" type="search" placeholder="Recherche rapide" aria-label="Recherche">
-          <button class="btn btn-outline-info" type="submit">Rechercher</button>
+          <input class="form-control" name="keyword" type="search" placeholder="Chercher un titre" aria-label="Recherche">
+          <button class="btn btn-outline-white" type="submit">Rechercher</button>
         </form>
       </nav>
       <div class="container">

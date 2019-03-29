@@ -6,7 +6,8 @@
 
 {% block corps %}
     {% if video %}
-        <h1>{{video.chanteur}} : {{video.chanson}}</h1>
+<h1></h1>
+<h1>{{video.chanteur}}, <i>{{video.chanson}}</i></h1>
     <iframe width='100%' height='100%' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='{{video.url}}' allow ='fullscreen,autoplay'></iframe>
 
     {% else %}
