@@ -2,20 +2,20 @@ from flask import render_template, request
 
 
 from .app import app
-from .modeles.donnees import video
+from .modeles.donnees import BardINAge
 
 
 @app.route("/")
 def accueil():
     # On a bien sûr aussi modifié le template pour refléter le changement
-    videos = video.query.all()
+    videos = BardINAge.query.all()
     return render_template("pages/accueil.html", nom="INApp", videos=videos)
 
 
-@app.route("/player/<int:id>")
-def player(id):
+@app.route("/player/<RNO>")
+def player(RNO):
     # On a bien sûr aussi modifié le template pour refléter le changement
-    unique_video = video.query.get(id)
+    unique_video = BardINAge.query.get(RNO)
     return render_template("pages/place.html", nom="INApp", video=unique_video)
 
 
@@ -30,7 +30,7 @@ def recherche():
     # On fait de même pour le titre de la page
     titre = "Recherche"
     if motclef:
-        resultats = video.query.filter(
-            video.chanson.like("%{}%".format(motclef))
+        resultats = BardINAge.query.filter(
+            BardINAge.Description_detaillee.like("%{}%".format(motclef))
         ).all()
     return render_template("pages/recherche.html", resultats=resultats, titre=titre)
