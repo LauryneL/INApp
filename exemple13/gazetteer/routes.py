@@ -16,7 +16,7 @@ def accueil():
 def player(RNO):
     # On a bien sûr aussi modifié le template pour refléter le changement
     unique_video = Player.query.get(RNO)
-    return render_template("pages/place.html", nom="INApp", video=unique_video)
+    return render_template("pages/player.html", nom="INApp", video=unique_video)
 
 
 @app.route("/recherche")
