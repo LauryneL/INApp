@@ -8,7 +8,7 @@
 <p>Le catalogue compte {{videos|length}} vidéos :</p>
         <div class="list-group">
             {% for video in videos %}
-            <a href="{{url_for('player', RNO=video.RNO)}}" class="list-group-item list-group-item-action list-group-item-secondary"><i class="fas fa-video"></i>	&nbsp;{{video.Nom_artiste}}, <i>{{video.Titre_chanson}}</i></a>
+            <a href="{{url_for('player', RNO=video.RNO)}}" class="list-group-item list-group-item-action list-group-item-secondary"><i class="fas fa-video"></i>	&nbsp;{{video.nom_artiste_propre}}, <i>{{video.Titre_chanson}}</i></a>
             <!--<li class="list-group-item list-group-item-secondary"><a href=" style="color:#1c659e;"></i></a></li>-->
             {% endfor %}
         </div>
