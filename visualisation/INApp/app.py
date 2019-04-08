@@ -16,4 +16,4 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../db.sqlite'
 # On initie l'extension
 db = SQLAlchemy(app)
 
-from .routes import lieu, accueil, recherche
+from .routes import player, accueil, recherche
