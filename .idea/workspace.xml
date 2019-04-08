@@ -9,6 +9,10 @@
       <change afterPath="$PROJECT_DIR$/../TNAHBox/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datamodel.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_data.sql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,24 +114,6 @@
             <path>
               <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
               <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
-              <item name="INApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
-              <item name="INApp" type="462c0819:PsiDirectoryNode" />
-              <item name="modeles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
