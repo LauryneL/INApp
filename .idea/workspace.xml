@@ -6,12 +6,39 @@
       <change afterPath="$PROJECT_DIR$/../../Cours_M2/Cours_Python/cours-python/cours-flask/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../INAplayer/app/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../INApp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TNAHBox/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datamodel.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/modeles/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/modeles/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/modeles/donnees.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/modeles/donnees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/static/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/static/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/conteneur.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/pages/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/pages/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/pages/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/pages/player.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/pages/player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/pages/recherche.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/partials/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/partials/css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/partials/icons/round_ondemand_video_black_18dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/partials/icons/round_ondemand_video_black_18dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/INApp/templates/partials/metadata.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/partials/metadata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/path.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple13/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,25 +50,32 @@
     <session id="535815428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="16" />
-          <entry key="py" value="31" />
+          <entry key="md" value="1" />
+          <entry key="py" value="36" />
+          <entry key="sql" value="2" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="DBN-SQL" value="2" />
           <entry key="HTML" value="16" />
-          <entry key="Python" value="31" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -59,17 +93,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file:///usr/local/lib/python3.6/dist-packages/flask_sqlalchemy/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -120,20 +144,20 @@
             <path>
               <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
               <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="exemple13" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
               <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="exemple13" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
               <item name="INApp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
               <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
-              <item name="exemple13" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
               <item name="INApp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="modeles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Bureau/prosopochartes-master(1)/prosopochartes-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dataiku_Projet" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -158,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
+  <component name="RunManager" selected="Python.run (1)">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NOUVEAU_DEPART" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +196,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gazetteer/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NOUVEAU_DEPART" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualisation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualisation/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,9 +249,11 @@
     <list>
       <item itemvalue="Python.app" />
       <item itemvalue="Python.run" />
+      <item itemvalue="Python.run (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run (1)" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.app" />
       </list>
@@ -225,10 +272,19 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1923676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1923676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -236,11 +292,11 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952693" />
@@ -259,8 +315,8 @@
       <window_info id="DB Browser" order="4" />
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,95 +339,106 @@
     <entry file="file://$PROJECT_DIR$/gazetteer/routes.py" />
     <entry file="file://$PROJECT_DIR$/gazetteer/app.py" />
     <entry file="file://$PROJECT_DIR$/gazetteer/modeles/donnees.py" />
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/templates/conteneur.html">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/path.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/path.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/app.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/templates/pages/recherche.html">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/templates/pages/galerie.html">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/galerie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/templates/pages/player.html">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/player.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1455">
           <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/routes.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/routes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/run.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="189" selection-start-line="10" selection-start-column="189" selection-end-line="10" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/flask_sqlalchemy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2679">
+          <caret line="793" selection-start-line="793" selection-end-line="793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datamodel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/modeles/__init__.py">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/modeles/donnees.py">
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/modeles/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/modeles/donnees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exemple13/INApp/templates/pages/accueil.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="189" selection-start-line="10" selection-start-column="189" selection-end-line="10" selection-end-column="189" />
-          <folding>
-            <element signature="n#style#0;n#h1#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/flask_sqlalchemy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
