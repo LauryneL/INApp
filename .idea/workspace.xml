@@ -10,9 +10,8 @@
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../essai_mdp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datamodel.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +23,21 @@
     <session id="535815428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="16" />
+          <entry key="html" value="19" />
           <entry key="md" value="1" />
-          <entry key="py" value="36" />
+          <entry key="py" value="38" />
           <entry key="sql" value="2" />
           <entry key="txt" value="1" />
         </counts>
@@ -46,28 +45,74 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="DBN-SQL" value="2" />
-          <entry key="HTML" value="16" />
+          <entry key="HTML" value="19" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="36" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="4121" />
-          <entry key="py" value="1151" />
+          <entry key="html" value="4387" />
+          <entry key="py" value="1204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4121" />
-          <entry key="Python" value="1151" />
+          <entry key="HTML" value="4387" />
+          <entry key="Python" value="1204" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualisation/INApp/routes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualisation/INApp/modeles/donnees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -93,10 +138,14 @@
         <option value="$PROJECT_DIR$/exemple13/gazetteer/templates/pages/place.html" />
         <option value="$PROJECT_DIR$/exemple13/gazetteer/routes.py" />
         <option value="$PROJECT_DIR$/exemple13/run.py" />
+        <option value="$PROJECT_DIR$/visualisation/INApp/routes.py" />
+        <option value="$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html" />
+        <option value="$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html" />
+        <option value="$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="59" />
     <option name="y" value="25" />
     <option name="width" value="654" />
@@ -114,6 +163,39 @@
             <path>
               <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
               <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
+              <item name="INApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
+              <item name="INApp" type="462c0819:PsiDirectoryNode" />
+              <item name="modeles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
+              <item name="INApp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NOUVEAU_DEPART" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NOUVEAU_DEPART" type="462c0819:PsiDirectoryNode" />
+              <item name="visualisation" type="462c0819:PsiDirectoryNode" />
+              <item name="INApp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,8 +321,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1923676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1876947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -255,7 +338,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32952693" />
@@ -295,13 +378,6 @@
     <entry file="file://$PROJECT_DIR$/gazetteer/routes.py" />
     <entry file="file://$PROJECT_DIR$/gazetteer/app.py" />
     <entry file="file://$PROJECT_DIR$/gazetteer/modeles/donnees.py" />
-    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visualisation/path.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -312,13 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -336,20 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visualisation/INApp/routes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="189" selection-start-line="10" selection-start-column="189" selection-end-line="10" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.6/dist-packages/flask_sqlalchemy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2679">
@@ -357,11 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datamodel.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datamodel.sql" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -373,11 +424,7 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample_data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data.sql" />
     <entry file="file://$PROJECT_DIR$/visualisation/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -391,10 +438,38 @@
     <entry file="file://$PROJECT_DIR$/visualisation/INApp/modeles/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/visualisation/INApp/modeles/donnees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="269">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/recherche.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/conteneur.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualisation/INApp/templates/pages/accueil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>

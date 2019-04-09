@@ -28,7 +28,7 @@ def recherche():
     #   si on n'a pas de mot clé)
     resultats = []
     # On fait de même pour le titre de la page
-    titre = "Recherche"
+    titre = "Résultat pour la recherche"+" "+"\""+motclef+"\""
     if motclef:
         resultats = Player.query.filter(
             Player.Description_detaillee.like("%{}%".format(motclef))
