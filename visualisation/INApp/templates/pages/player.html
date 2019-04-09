@@ -6,6 +6,7 @@
 
 {% block corps %}
     {% if video %}
+<br>
 <div class="container">
     <div class="row">
         <div class="col-12">
@@ -18,7 +19,7 @@
             <iframe width="450px" height='300px' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='https://player.ina.fr/player/embed/{{video.RNO}}/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/wide/1' allow ='fullscreen,autoplay'></iframe>
         </div>
         <div class="col-7">
-            Informations générales :
+            <h3>Informations générales :</h3>
             <ul class="list-group">
                 <li class="list-group-item list-group-item-secondary">Interprète : {{video.nom_artiste_propre}}</li>
                 <li class="list-group-item list-group-item-secondary">Titre : <i>{{video.Titre_chanson}}</i></li>

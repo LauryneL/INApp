@@ -3,13 +3,14 @@
 {% block titre %}| {{titre}}{%endblock%}
 
 {% block corps %}
-<h1>{{titre}}</h1>
+<br>
+<h1 style="color:#505050;">{{titre}}</h1>
     {% if resultats %}
-    <p>Il y a {{resultats|length}} vidéos qui répondent à votre requête :</p>
-        <ul>
+    <p style="color:#505050;"><font size="+2"> {{resultats|length}} vidéos correspondent à votre recherche :</font></p>
+        <div class="list-group">
             {% for video in resultats %}
-                <li><a href="{{url_for('player', RNO=video.RNO)}}">{{video.nom_artiste_propre}}, {{video.Titre_chanson}}</a></li>
+                <a href="{{url_for('player', RNO=video.RNO)}}" class="list-group-item list-group-item-action list-group-item-secondary"><i class="fas fa-video"></i>	&nbsp;{{video.nom_artiste_propre}}, <i>{{video.Titre_chanson}}</i></a>
             {% endfor %}
-        </ul>
+        </div>
     {% endif %}
 {% endblock %}
