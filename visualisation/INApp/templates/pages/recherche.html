@@ -8,7 +8,7 @@
     <p>Il y a {{resultats|length}} vidéos qui répondent à votre requête :</p>
         <ul>
             {% for video in resultats %}
-                <li><a href="{{url_for('player', RNO=video.RNO)}}">{{video.Nom_artiste}}, {{video.Titre_chanson}}</a></li>
+                <li><a href="{{url_for('player', RNO=video.RNO)}}">{{video.nom_artiste_propre}}, {{video.Titre_chanson}}</a></li>
             {% endfor %}
         </ul>
     {% endif %}
