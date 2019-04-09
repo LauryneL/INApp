@@ -6,7 +6,7 @@ Pour utiliser notre application ;
 1. Installer python3
 2. Créer un environnement virtuel dédié à l'application
 3. Télécharger (cloner ou forker) le repository
-4. Installer les libraries (SQLAlchemy)*
+4. Installer les libraries (Flask, Jinja et SQLAlchemy)*
 5. Run l'application en cliquant sur le fichier "run"
 
 
@@ -15,4 +15,4 @@ Application python développée pour le cours de Gautier Poupeau du Master 2 Tec
 Dev : Lauryne Lemosquet.
 Avec la participation de Caroline Méot et Victoria Le Fourner.
 
-*La liste des autres librairies se trouve dans requirements.txt
+**\La liste des autres librairies se trouve dans requirements.txt. Seul Flask, Jinja et SQLalchemy sont nécessaires pour démarrer l'application. Les autres librairies sont optionnelles.*
