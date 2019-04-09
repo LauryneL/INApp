@@ -8,3 +8,6 @@ Pour utiliser notre application ;
 3. Télécharger (cloner ou forker) le repository
 4. Installer les libraries (SQLAlchemy)*
 5. Run l'application en cliquant sur le fichier "run"
+
+
+*La liste des autres librairies se trouve dans requirements.txt
